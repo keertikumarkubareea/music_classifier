@@ -35,3 +35,7 @@ At least one plot for the dataset to show exploration (includes xx classes, imba
 Model architecture: How will the model be developed and evaluated? 
 The baseline model (pre-trained model) will be fine-tuned.
 How will performance be measured? Prediction on which model will perform best.  
+
+
+Pre requisite: 
+Upload the folder genres_original (dataset) to your google drive at the location /content/drive/MyDrive/genres_original before running the Jupyter Notebook. 
